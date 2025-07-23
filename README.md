@@ -20,20 +20,18 @@ This project is a **simple AI-based chatbot** built using **Python** and **Natur
 
 ---
 
-## 📁 Project Structure
-
-AI-chatbot/
-├── chatbot.py # Main chatbot logic and interface
-├── corpus.txt # Predefined conversation data
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+<pre> ## 📁 Project Structure AI-chatbot/ ├── chatbot.py # Main chatbot logic and interface ├── corpus.txt # Predefined conversation data ├── README.md # Project documentation └── requirements.txt # Python dependencies </pre>
 
 📌 Use Cases
 Educational purposes (learn basics of NLP and chatbot development)
+
 Customer service demo chatbot
+
 Prototype for more advanced NLP applications
 
 🚀 Future Improvements
 Add intent recognition using ML models
+
 Integrate GUI or web interface using Flask/Streamlit
+
 Use Transformer models like BERT or GPT for advanced interaction
